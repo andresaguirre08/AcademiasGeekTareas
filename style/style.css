@@ -1,0 +1,35 @@
+html {
+    box-sizing: border-box;
+    background-color: #f3f4f5;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+h1{
+ font-family: Arial;
+ font-size: 24px;
+ color: black;
+}
+section{
+font-family: Georgia;
+font-size: 18px;
+color: #757575;
+}
+
+.container{
+    text-align: center;
+}
+
+.container ul{
+    text-align: left;
+}
+
+img{
+    width: 30%;
+    text-align: center;
+    
+}
+h4{
+    text-align: center;
+}
